@@ -1,0 +1,17 @@
+/* Lore CSS 
+- Created By: Word
+- Created On: 1/1/2022
+- Updated: 1/15/2022 | 5:54 PM
+*/
+
+/* Accents */
+@import url(https://loregg.com/assets/css/DarkmodeV2/accents);
+/* Lobby-Interface */
+@import url(https://loregg.com/assets/css/DarkmodeV2/lobby-inf);
+/* Game_Interface */
+@import url(https://loregg.com/assets/css/DarkmodeV2/game-inf);
+/* Ad Block */
+#ad-bottom,
+#ad-left {
+  width: 0px !important;
+}
